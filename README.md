@@ -27,7 +27,7 @@ export OPENAI_MODEL="gpt-5.6-luna"
 Place the assignment's `items.csv`, `shipments.csv`, and `sales_daily.csv` files under `data/`.
 `freshflow.db` is created automatically on first run.
 
-> The large fact extracts are intentionally not committed. The repository contains the application code, data dictionary, and item reference data; use the provided assignment extracts locally.
+> The assignment CSV extracts are intentionally not committed. The repository contains the application code and data dictionary; use the provided assignment extracts locally.
 
 ## Trust decisions
 
