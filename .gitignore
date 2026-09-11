@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# FreshFlow local artifacts
+freshflow.db
+data/items.csv
+data/shipments.csv
+data/sales_daily.csv
