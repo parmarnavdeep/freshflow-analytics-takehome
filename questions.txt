@@ -1,0 +1,5 @@
+Use these four demo questions from the document’s scenarios: 
+
+1. What was the total shrink cost in June?
+2. Which fresh items had the highest shrink cost in June?
+3. Which stores had the highest shrink cost in June?
